@@ -25,6 +25,6 @@ with signup:
 
         submit = st.form_submit_button("SignUp")
         if submit:
-            st.write("buttom clicked")
+            st.write("user added succesfully...")
 
         
